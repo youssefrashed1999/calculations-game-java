@@ -1,4 +1,4 @@
-# calculations-game-java
+##maths-quiz-game-java
 Math calculations game using java
 this game you can play it with friends
 each player gets a number of basic math questions and whoever solve the most questions the fastest wins
